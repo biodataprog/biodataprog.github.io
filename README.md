@@ -1,4 +1,5 @@
 Teaching and programming resources for Data analysis and programming focused on biological data.
+* 2025 [GEN220: Computational Analysis of High Throughput Biological Data](https://biodataprog.github.io/GEN220_2025/)
 * 2023 [GEN220: Computational Analysis of High Throughput Biological Data](https://biodataprog.github.io/GEN220_2023/)
 * 2022 [GEN220: Computational Analysis of High Throughput Biological Data](https://biodataprog.github.io/GEN220_2022/)
 * 2021 [GEN220: Computational Analysis of High Throughput Biological Data](https://biodataprog.github.io/GEN220_2021/)
